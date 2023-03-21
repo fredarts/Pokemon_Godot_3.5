@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Open_Door.mp3-46bb89a8081da586d69f1a75908fb701.mp3str"
+
+[deps]
+
+source_file="res://Sound/SFX/Open_Door.mp3"
+dest_files=[ "res://.import/Open_Door.mp3-46bb89a8081da586d69f1a75908fb701.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

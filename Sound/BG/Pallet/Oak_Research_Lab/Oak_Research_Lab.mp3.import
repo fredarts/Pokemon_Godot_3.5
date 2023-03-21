@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Oak_Research_Lab.mp3-befc315bffbba1ccddbf17d6186bd1f8.mp3str"
+
+[deps]
+
+source_file="res://Sound/BG/Pallet/Oak_Research_Lab/Oak_Research_Lab.mp3"
+dest_files=[ "res://.import/Oak_Research_Lab.mp3-befc315bffbba1ccddbf17d6186bd1f8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

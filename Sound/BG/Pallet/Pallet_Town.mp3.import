@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Pallet_Town.mp3-c85e38bb9d04d637e480be16b42204c6.mp3str"
+
+[deps]
+
+source_file="res://Sound/BG/Pallet/Pallet_Town.mp3"
+dest_files=[ "res://.import/Pallet_Town.mp3-c85e38bb9d04d637e480be16b42204c6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
